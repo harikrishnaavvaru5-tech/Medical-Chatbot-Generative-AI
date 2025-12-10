@@ -1,0 +1,11 @@
+sentence-transformers
+langchain
+flask
+pypdf
+python-dotenv
+langchain_community
+langchain_openai
+langchain_experimental
+faiss-cpu
+google-genai
+langchain_huggingface
